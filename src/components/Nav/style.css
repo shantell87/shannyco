@@ -1,0 +1,22 @@
+
+.navbar-brand {
+    color: #4B0082;
+    /* color: #2b3651; */
+}
+.site-navbar .navbar-nav > li > a {
+    color:  #4B0082 !important;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: .1em;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    text-decoration:underline;
+}
+
+a {
+    font-family: 'Lemonada', cursive;
+}
