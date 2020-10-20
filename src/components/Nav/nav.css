@@ -1,7 +1,9 @@
-
 .navbar-brand {
     color: #4B0082;
     /* color: #2b3651; */
+}
+.navbar-toggler-icon, button, .navbar-toggler {
+    color:  #4B0082;
 }
 .site-navbar .navbar-nav > li > a {
     color:  #4B0082 !important;

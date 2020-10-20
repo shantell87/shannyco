@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap";
 import Nav from "../../components/Nav/nav";
 import Footer from "../../components/Footer/footer";
 // import Card from 'react-bootstrap/Card'
-import "./style.css";
+import "./home.css";
 
 class Home extends Component {
     render() {
